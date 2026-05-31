@@ -12,7 +12,7 @@ title: Terms of Use — Dycers
 
 The mobile application "**Dycers**" (the "**App**") is published and operated by **Quentin Ameline**, an individual publisher established in the European Union ("**we**", "**us**", "**our**", or the "**Publisher**").
 
-Contact: **support@dycers.com**
+Contact: **dycersofficial@gmail.com.com**
 
 These Terms of Use (the "**Terms**") form a legally binding contract between you ("**you**", the "**User**") and the Publisher. By creating an account, downloading, installing or using the App, you accept these Terms in full. If you do not agree, you must not use the App.
 
