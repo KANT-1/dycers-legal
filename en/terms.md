@@ -54,7 +54,7 @@ You agree to:
 
 - Provide accurate and up-to-date information;
 - Keep your credentials confidential;
-- Notify us without delay at **support@dycers.com** of any unauthorised use of your account.
+- Notify us without delay at **dycersofficial@gmail.com** of any unauthorised use of your account.
 
 You are responsible for all activity that occurs under your account. We may suspend or close any account that contains inaccurate information, is used by more than one person, or is used in breach of these Terms.
 
@@ -207,7 +207,7 @@ Sections that by their nature should survive termination (in particular sections
 
 These Terms are governed by the laws of the User's country of habitual residence, where mandatory consumer-protection rules apply, and otherwise by the substantive law of the European Union and, by way of supplement, the national law of the Publisher's place of establishment.
 
-**Amicable settlement.** Before bringing any claim, you agree to first contact us at **support@dycers.com** and attempt to resolve the dispute in good faith for a period of at least thirty (30) days.
+**Amicable settlement.** Before bringing any claim, you agree to first contact us at **dycersofficial@gmail.com** and attempt to resolve the dispute in good faith for a period of at least thirty (30) days.
 
 **EU online dispute resolution.** Consumers resident in the European Union may also use the European Commission's Online Dispute Resolution platform: <https://ec.europa.eu/consumers/odr>.
 
