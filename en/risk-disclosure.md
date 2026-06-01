@@ -188,4 +188,4 @@ By tapping **"I agree"** in the App, or by continuing to use the App after the e
 
 *If you do not agree with any part of this Risk Disclosure, do not use the App.*
 
-**For help: support@dycers.com**
+**For help: dycersofficial@gmail.com**
