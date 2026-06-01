@@ -18,7 +18,7 @@ The data controller is **Quentin Ameline**, an individual publisher established 
 
 For any privacy-related question or to exercise your rights, contact us at:
 
-**privacy@dycers.com**
+**dycersofficial@gmail.com**
 
 ---
 
@@ -108,7 +108,7 @@ We may also disclose your data when required by law (court order, lawful request
 
 ## 5. International transfers
 
-Some of our processors are located outside the European Economic Area, in particular in the United States. Where this is the case, we ensure that an adequate level of protection is in place through one of the mechanisms recognised by GDPR (adequacy decision, Standard Contractual Clauses, EU–US Data Privacy Framework, binding corporate rules). You may request a copy of the relevant safeguards by writing to **privacy@dycers.com**.
+Some of our processors are located outside the European Economic Area, in particular in the United States. Where this is the case, we ensure that an adequate level of protection is in place through one of the mechanisms recognised by GDPR (adequacy decision, Standard Contractual Clauses, EU–US Data Privacy Framework, binding corporate rules). You may request a copy of the relevant safeguards by writing to **dycersofficial@gmail.com**.
 
 ---
 
@@ -157,7 +157,7 @@ Under GDPR you have the following rights at any time:
 - **Withdraw consent** — at any time, where processing is based on consent (notifications, personalised ads). Withdrawal does not affect past processing.
 - **Lodge a complaint** with your national data-protection authority. In France, this is the **CNIL** (<https://www.cnil.fr>); a list of EU authorities is available at <https://edpb.europa.eu/about-edpb/about-edpb/members_en>.
 
-To exercise these rights, write to **privacy@dycers.com** from the email address linked to your account. We will respond within one (1) month. We may ask for additional information to verify your identity.
+To exercise these rights, write to **dycersofficial@gmail.com** from the email address linked to your account. We will respond within one (1) month. We may ask for additional information to verify your identity.
 
 ---
 
@@ -177,7 +177,7 @@ No system is 100% secure. In the event of a personal-data breach likely to resul
 
 ## 10. Children
 
-The App is **not intended for children**. We do not knowingly collect data from anyone under 18 (or the higher local age of legal majority for sports betting). If we learn that we have collected data from a minor, we will delete it without delay. If you believe a minor has provided us with personal data, contact us at **privacy@dycers.com**.
+The App is **not intended for children**. We do not knowingly collect data from anyone under 18 (or the higher local age of legal majority for sports betting). If we learn that we have collected data from a minor, we will delete it without delay. If you believe a minor has provided us with personal data, contact us at **dycersofficial@gmail.com**.
 
 ---
 
@@ -211,7 +211,7 @@ We may update this Policy from time to time. The "Last updated" date at the top 
 
 For any question, request or complaint regarding your personal data:
 
-**privacy@dycers.com**
+**dycersofficial@gmail.com**
 
 ---
 
