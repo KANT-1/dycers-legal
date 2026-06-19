@@ -7,3 +7,4 @@ title: Dycers Legal
 - [Terms of Use](en/terms)
 - [Privacy Policy](en/privacy)
 - [Risk Disclosure](en/risk-disclosure)
+- [Legal Notice](en/legal-notice)
