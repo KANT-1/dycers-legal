@@ -4,8 +4,8 @@ title: Polityka prywatności — Dycers
 
 # Polityka prywatności — Dycers
 
-**Ostatnia aktualizacja:** 28 maja 2026
-**Data wejścia w życie:** 28 maja 2026
+**Ostatnia aktualizacja:** 19 czerwca 2026
+**Data wejścia w życie:** 19 czerwca 2026
 
 Niniejsza Polityka prywatności wyjaśnia, w jaki sposób aplikacja mobilna „**Dycers**" (dalej „**Aplikacja**") zbiera, wykorzystuje, udostępnia i chroni Twoje dane osobowe, zgodnie z unijnym Ogólnym rozporządzeniem o ochronie danych („**RODO**") i równoważnymi przepisami lokalnymi.
 
@@ -13,9 +13,9 @@ Niniejsza Polityka prywatności wyjaśnia, w jaki sposób aplikacja mobilna „*
 
 ## 1. Administrator danych
 
-Administratorem danych jest **Quentin Ameline**, indywidualny wydawca z siedzibą w Unii Europejskiej.
+Administratorem danych jest **LF Digital Ventures**, uproszczona spółka akcyjna prawa francuskiego (*société par actions simplifiée*, SAS) o kapitale zakładowym 2 €, wpisana do rejestru handlowego i spółek (RCS) w Nanterre pod numerem 106 243 355, z siedzibą pod adresem 63 rue Nationale, 92100 Boulogne-Billancourt, Francja.
 
-W przypadku pytań dotyczących prywatności lub wykonywania praw: **dycersofficial@gmail.com**
+W przypadku pytań dotyczących prywatności lub wykonywania praw: **contact@dycers.com**
 
 ---
 
@@ -90,7 +90,7 @@ Nigdy nie sprzedajemy Twoich danych osobowych. Udostępniamy je tylko następuj�
 
 ## 5. Transfery międzynarodowe
 
-W przypadku transferów poza EOG korzystamy ze Standardowych klauzul umownych, Ramowego programu ochrony danych UE–USA lub równoważnych zabezpieczeń. Możesz poprosić o kopię odpowiednich zabezpieczeń, pisząc na adres **dycersofficial@gmail.com**.
+W przypadku transferów poza EOG korzystamy ze Standardowych klauzul umownych, Ramowego programu ochrony danych UE–USA lub równoważnych zabezpieczeń. Możesz poprosić o kopię odpowiednich zabezpieczeń, pisząc na adres **contact@dycers.com**.
 
 ---
 
@@ -118,7 +118,7 @@ Na **poziomie bezpłatnym** Aplikacja może wyświetlać reklamy przez **Google 
 
 Na mocy RODO masz prawo do: **Dostępu**, **Sprostowania**, **Usunięcia** (dostępne w Aplikacji w **Ustawienia → Konto → Usuń konto**), **Ograniczenia przetwarzania**, **Przenoszalności danych**, **Sprzeciwu** i **Wycofania zgody**.
 
-Aby skorzystać z tych praw, napisz na adres **dycersofficial@gmail.com** z adresu e-mail powiązanego z Twoim kontem. Odpowiemy w ciągu jednego (1) miesiąca.
+Aby skorzystać z tych praw, napisz na adres **contact@dycers.com** z adresu e-mail powiązanego z Twoim kontem. Odpowiemy w ciągu jednego (1) miesiąca.
 
 ---
 
@@ -130,7 +130,7 @@ Stosujemy odpowiednie środki techniczne i organizacyjne: szyfrowanie **TLS (HTT
 
 ## 10. Dzieci
 
-Aplikacja **nie jest przeznaczona dla dzieci**. Nie zbieramy świadomie danych od osób poniżej 18 roku życia. Skontaktuj się z nami pod adresem **dycersofficial@gmail.com**, jeśli uważasz, że małoletni podał nam dane osobowe.
+Aplikacja **nie jest przeznaczona dla dzieci**. Nie zbieramy świadomie danych od osób poniżej 18 roku życia. Skontaktuj się z nami pod adresem **contact@dycers.com**, jeśli uważasz, że małoletni podał nam dane osobowe.
 
 ---
 
@@ -160,7 +160,7 @@ W przypadku istotnych zmian poinformujemy Cię w Aplikacji lub e-mailem co najmn
 
 ## 14. Kontakt
 
-**dycersofficial@gmail.com**
+**contact@dycers.com**
 
 ---
 

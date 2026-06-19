@@ -4,8 +4,8 @@ title: Privacybeleid — Dycers
 
 # Privacybeleid — Dycers
 
-**Laatste update:** 28 mei 2026
-**Datum van inwerkingtreding:** 28 mei 2026
+**Laatste update:** 19 juni 2026
+**Datum van inwerkingtreding:** 19 juni 2026
 
 Dit Privacybeleid legt uit hoe de mobiele applicatie «**Dycers**» (de «**App**») uw persoonsgegevens verzamelt, gebruikt, deelt en beschermt, in overeenstemming met de EU Algemene Verordening Gegevensbescherming («**AVG**») en gelijkwaardige lokale regels.
 
@@ -13,9 +13,9 @@ Dit Privacybeleid legt uit hoe de mobiele applicatie «**Dycers**» (de «**App*
 
 ## 1. Verwerkingsverantwoordelijke
 
-De verwerkingsverantwoordelijke is **Quentin Ameline**, een individuele uitgever gevestigd in de Europese Unie.
+De verwerkingsverantwoordelijke is **LF Digital Ventures**, een vereenvoudigde naamloze vennootschap naar Frans recht (*société par actions simplifiée*, SAS) met een maatschappelijk kapitaal van € 2, ingeschreven in het handels- en vennootschapsregister (RCS) van Nanterre onder nummer 106 243 355, met maatschappelijke zetel te 63 rue Nationale, 92100 Boulogne-Billancourt, Frankrijk.
 
-Voor privacygerelateerde vragen of het uitoefenen van uw rechten: **dycersofficial@gmail.com**
+Voor privacygerelateerde vragen of het uitoefenen van uw rechten: **contact@dycers.com**
 
 ---
 
@@ -90,7 +90,7 @@ Wij verkopen uw persoonsgegevens nooit. Wij delen ze alleen met de volgende dien
 
 ## 5. Internationale overdrachten
 
-Voor overdrachten buiten de EER vertrouwen wij op Standaardcontractbepalingen, het EU-VS Data Privacy Framework of gelijkwaardige waarborgen. U kunt een kopie van de relevante waarborgen aanvragen door te schrijven naar **dycersofficial@gmail.com**.
+Voor overdrachten buiten de EER vertrouwen wij op Standaardcontractbepalingen, het EU-VS Data Privacy Framework of gelijkwaardige waarborgen. U kunt een kopie van de relevante waarborgen aanvragen door te schrijven naar **contact@dycers.com**.
 
 ---
 
@@ -118,7 +118,7 @@ Op het **gratis niveau** kan de App advertenties weergeven via **Google AdMob**.
 
 Onder de AVG heeft u het recht op: **Inzage**, **Rectificatie**, **Wissing** (beschikbaar in de App via **Instellingen → Account → Account verwijderen**), **Beperking van verwerking**, **Gegevensoverdraagbaarheid**, **Bezwaar** en **Intrekking van toestemming**.
 
-Schrijf naar **dycersofficial@gmail.com** vanaf het e-mailadres dat aan uw account is gekoppeld. Wij reageren binnen één (1) maand.
+Schrijf naar **contact@dycers.com** vanaf het e-mailadres dat aan uw account is gekoppeld. Wij reageren binnen één (1) maand.
 
 ---
 
@@ -130,7 +130,7 @@ Wij passen passende technische en organisatorische maatregelen toe: **TLS (HTTPS
 
 ## 10. Kinderen
 
-De App **is niet bedoeld voor kinderen**. Wij verzamelen bewust geen gegevens van personen jonger dan 18 jaar. Neem contact op via **dycersofficial@gmail.com** als u denkt dat een minderjarige ons persoonsgegevens heeft verstrekt.
+De App **is niet bedoeld voor kinderen**. Wij verzamelen bewust geen gegevens van personen jonger dan 18 jaar. Neem contact op via **contact@dycers.com** als u denkt dat een minderjarige ons persoonsgegevens heeft verstrekt.
 
 ---
 
@@ -160,7 +160,7 @@ Bij wezenlijke wijzigingen informeren wij u in de App of per e-mail minimaal vij
 
 ## 14. Contact
 
-**dycersofficial@gmail.com**
+**contact@dycers.com**
 
 ---
 

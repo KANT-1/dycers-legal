@@ -4,16 +4,16 @@ title: Nutzungsbedingungen — Dycers
 
 # Nutzungsbedingungen — Dycers
 
-**Zuletzt aktualisiert:** 28. Mai 2026
-**Datum des Inkrafttretens:** 28. Mai 2026
+**Zuletzt aktualisiert:** 19. Juni 2026
+**Datum des Inkrafttretens:** 19. Juni 2026
 
 ---
 
 ## 1. Wer wir sind
 
-Die mobile Anwendung „**Dycers**" (die „**App**") wird von **Quentin Ameline**, einem in der Europäischen Union ansässigen Einzelherausgeber, veröffentlicht und betrieben („**wir**", „**unser**" oder der „**Herausgeber**").
+Die mobile Anwendung „**Dycers**" (die „**App**") wird von **LF Digital Ventures**, einer vereinfachten Aktiengesellschaft französischen Rechts (*société par actions simplifiée*, SAS) mit einem Stammkapital von 2 €, eingetragen im Handels- und Gesellschaftsregister (RCS) Nanterre unter der Nummer 106 243 355, SIRET 106 243 355 00018, USt-IdNr. FR 08 106 243 355, mit Sitz in 63 rue Nationale, 92100 Boulogne-Billancourt, Frankreich, veröffentlicht und betrieben („**wir**", „**unser**" oder der „**Herausgeber**").
 
-Kontakt: **dycersofficial@gmail.com**
+Kontakt: **contact@dycers.com**
 
 Diese Nutzungsbedingungen (die „**Bedingungen**") bilden einen rechtsverbindlichen Vertrag zwischen Ihnen („**Sie**", der „**Nutzer**") und dem Herausgeber. Durch das Erstellen eines Kontos, das Herunterladen, Installieren oder Verwenden der App akzeptieren Sie diese Bedingungen vollständig. Wenn Sie nicht einverstanden sind, dürfen Sie die App nicht verwenden.
 
@@ -55,7 +55,7 @@ Sie verpflichten sich:
 
 - Genaue und aktuelle Informationen anzugeben;
 - Ihre Anmeldedaten vertraulich zu halten;
-- Uns unverzüglich unter **dycersofficial@gmail.com** über jede unbefugte Nutzung Ihres Kontos zu informieren.
+- Uns unverzüglich unter **contact@dycers.com** über jede unbefugte Nutzung Ihres Kontos zu informieren.
 
 ---
 
@@ -169,7 +169,7 @@ Sie können die App jederzeit nutzen und Ihr Konto unter **Einstellungen → Kon
 
 ## 18. Anwendbares Recht und Streitbeilegung
 
-Diese Bedingungen unterliegen den Gesetzen des gewöhnlichen Aufenthaltsorts des Nutzers, soweit zwingende Verbraucherschutzvorschriften Anwendung finden. Vor einer Klageerhebung wenden Sie sich bitte an **dycersofficial@gmail.com** und versuchen Sie, den Streit in gutem Glauben innerhalb von mindestens dreißig (30) Tagen beizulegen.
+Diese Bedingungen unterliegen den Gesetzen des gewöhnlichen Aufenthaltsorts des Nutzers, soweit zwingende Verbraucherschutzvorschriften Anwendung finden. Vor einer Klageerhebung wenden Sie sich bitte an **contact@dycers.com** und versuchen Sie, den Streit in gutem Glauben innerhalb von mindestens dreißig (30) Tagen beizulegen.
 
 **EU-Online-Streitbeilegung:** <https://ec.europa.eu/consumers/odr>
 

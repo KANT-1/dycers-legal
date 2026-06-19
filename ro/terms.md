@@ -4,16 +4,16 @@ title: Termeni de utilizare — Dycers
 
 # Termeni de utilizare — Dycers
 
-**Ultima actualizare:** 28 mai 2026
-**Data intrării în vigoare:** 28 mai 2026
+**Ultima actualizare:** 19 iunie 2026
+**Data intrării în vigoare:** 19 iunie 2026
 
 ---
 
 ## 1. Cine suntem
 
-Aplicația mobilă „**Dycers**" (denumită în continuare „**Aplicația**") este publicată și operată de **Quentin Ameline**, editor individual stabilit în Uniunea Europeană („**noi**", „**nostru**" sau „**Editorul**").
+Aplicația mobilă „**Dycers**" (denumită în continuare „**Aplicația**") este publicată și operată de **LF Digital Ventures**, societate pe acțiuni simplificată de drept francez (*société par actions simplifiée*, SAS) cu un capital social de 2 €, înregistrată la Registrul comerțului și al societăților (RCS) din Nanterre sub numărul 106 243 355, SIRET 106 243 355 00018, cod de TVA intracomunitar FR 08 106 243 355, cu sediul social în 63 rue Nationale, 92100 Boulogne-Billancourt, Franța („**noi**", „**nostru**" sau „**Editorul**").
 
-Contact: **dycersofficial@gmail.com**
+Contact: **contact@dycers.com**
 
 Prezentii Termeni de utilizare (denumiți în continuare „**Termenii**") constituie un contract obligatoriu din punct de vedere juridic între dumneavoastră („**dumneavoastră**", „**Utilizatorul**") și Editor. Prin crearea unui cont, descărcarea, instalarea sau utilizarea Aplicației, acceptați integral prezentii Termeni. Dacă nu sunteți de acord, nu trebuie să utilizați Aplicația.
 
@@ -53,7 +53,7 @@ Vă angajați să:
 
 - Furnizați informații precise și actualizate;
 - Păstrați confidențialitatea datelor de autentificare;
-- Ne notificați fără întârziere la **dycersofficial@gmail.com** despre orice utilizare neautorizată a contului dumneavoastră.
+- Ne notificați fără întârziere la **contact@dycers.com** despre orice utilizare neautorizată a contului dumneavoastră.
 
 ---
 
@@ -167,7 +167,7 @@ Puteți înceta să utilizați Aplicația în orice moment și vă puteți șter
 
 ## 18. Legea aplicabilă și soluționarea litigiilor
 
-Prezentii Termeni sunt guvernați de legile țării de reședință obișnuită a Utilizatorului, unde se aplică normele obligatorii de protecție a consumatorilor. Înainte de a iniția orice procedură, vă rugăm să ne contactați la **dycersofficial@gmail.com** și să încercați să soluționați litigiul cu bună-credință timp de cel puțin treizeci (30) de zile.
+Prezentii Termeni sunt guvernați de legile țării de reședință obișnuită a Utilizatorului, unde se aplică normele obligatorii de protecție a consumatorilor. Înainte de a iniția orice procedură, vă rugăm să ne contactați la **contact@dycers.com** și să încercați să soluționați litigiul cu bună-credință timp de cel puțin treizeci (30) de zile.
 
 **Platforma ODR a UE:** <https://ec.europa.eu/consumers/odr>
 

@@ -4,8 +4,8 @@ title: Politique de confidentialité — Dycers
 
 # Politique de confidentialité — Dycers
 
-**Dernière mise à jour :** 28 mai 2026
-**Date d'entrée en vigueur :** 28 mai 2026
+**Dernière mise à jour :** 19 juin 2026
+**Date d'entrée en vigueur :** 19 juin 2026
 
 La présente Politique de confidentialité explique comment l'application mobile « **Dycers** » (l'« **Application** ») collecte, utilise, partage et protège vos données personnelles. Elle est rédigée pour être conforme au Règlement général sur la protection des données de l'UE (Règlement (UE) 2016/679, « **RGPD** ») et aux règles locales équivalentes.
 
@@ -15,11 +15,11 @@ En utilisant l'Application, vous confirmez avoir lu et compris la présente Poli
 
 ## 1. Responsable du traitement
 
-Le responsable du traitement est **Quentin Ameline**, éditeur individuel établi dans l'Union européenne (« **nous** », « **notre** »).
+Le responsable du traitement est **LF Digital Ventures**, société par actions simplifiée (SAS) au capital de 2 €, immatriculée au Registre du commerce et des sociétés de Nanterre sous le numéro 106 243 355, dont le siège social est situé au 63 rue Nationale, 92100 Boulogne-Billancourt, France (« **nous** », « **notre** »).
 
 Pour toute question relative à la confidentialité ou pour exercer vos droits, contactez-nous à :
 
-**dycersofficial@gmail.com**
+**contact@dycers.com**
 
 ---
 
@@ -107,7 +107,7 @@ Chacun de ces prestataires est soumis à ses propres obligations de confidential
 
 ## 5. Transferts internationaux
 
-Certains de nos prestataires sont situés en dehors de l'EEE, notamment aux États-Unis. Nous veillons à ce qu'un niveau de protection adéquat soit en place via les mécanismes reconnus par le RGPD. Vous pouvez demander une copie des garanties pertinentes en écrivant à **dycersofficial@gmail.com**.
+Certains de nos prestataires sont situés en dehors de l'EEE, notamment aux États-Unis. Nous veillons à ce qu'un niveau de protection adéquat soit en place via les mécanismes reconnus par le RGPD. Vous pouvez demander une copie des garanties pertinentes en écrivant à **contact@dycers.com**.
 
 ---
 
@@ -154,7 +154,7 @@ En vertu du RGPD, vous disposez à tout moment des droits suivants :
 - **Retrait du consentement** — à tout moment, lorsque le traitement est basé sur le consentement. Le retrait n'affecte pas le traitement passé.
 - **Déposer une plainte** auprès de votre autorité nationale de protection des données. En France, il s'agit de la **CNIL** (<https://www.cnil.fr>).
 
-Pour exercer ces droits, écrivez à **dycersofficial@gmail.com** depuis l'adresse e-mail associée à votre compte. Nous répondrons dans un délai d'un (1) mois.
+Pour exercer ces droits, écrivez à **contact@dycers.com** depuis l'adresse e-mail associée à votre compte. Nous répondrons dans un délai d'un (1) mois.
 
 ---
 
@@ -173,7 +173,7 @@ En cas de violation de données personnelles susceptible d'entraîner un risque 
 
 ## 10. Enfants
 
-L'Application **n'est pas destinée aux enfants**. Nous ne collectons pas sciemment de données de personnes de moins de 18 ans. Si nous apprenons avoir collecté des données d'un mineur, nous les supprimerons sans délai. Contactez-nous à **dycersofficial@gmail.com** si vous pensez qu'un mineur nous a fourni des données personnelles.
+L'Application **n'est pas destinée aux enfants**. Nous ne collectons pas sciemment de données de personnes de moins de 18 ans. Si nous apprenons avoir collecté des données d'un mineur, nous les supprimerons sans délai. Contactez-nous à **contact@dycers.com** si vous pensez qu'un mineur nous a fourni des données personnelles.
 
 ---
 
@@ -207,7 +207,7 @@ Nous pouvons mettre à jour la présente Politique de temps à autre. Si nous ap
 
 Pour toute question, demande ou réclamation concernant vos données personnelles :
 
-**dycersofficial@gmail.com**
+**contact@dycers.com**
 
 ---
 

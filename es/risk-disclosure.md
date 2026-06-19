@@ -4,8 +4,8 @@ title: Divulgación de riesgos — Dycers
 
 # Divulgación de riesgos — Dycers
 
-**Última actualización:** 28 de mayo de 2026
-**Fecha de entrada en vigor:** 28 de mayo de 2026
+**Última actualización:** 19 de junio de 2026
+**Fecha de entrada en vigor:** 19 de junio de 2026
 
 Lea atentamente esta Divulgación de riesgos **antes** de usar Dycers y antes de realizar cualquier apuesta basada en la información que proporciona. Este documento forma parte integrante de los **Términos de uso**.
 
@@ -135,4 +135,4 @@ Al pulsar **«Acepto»** en la Aplicación, usted reconoce y confirma que:
 
 *Si no está de acuerdo con alguna parte de esta Divulgación de riesgos, no utilice la Aplicación.*
 
-**Para ayuda: dycersofficial@gmail.com**
+**Para ayuda: contact@dycers.com**

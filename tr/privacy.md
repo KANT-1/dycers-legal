@@ -4,8 +4,8 @@ title: Gizlilik Politikası — Dycers
 
 # Gizlilik Politikası — Dycers
 
-**Son güncelleme:** 28 Mayıs 2026
-**Yürürlük tarihi:** 28 Mayıs 2026
+**Son güncelleme:** 19 Haziran 2026
+**Yürürlük tarihi:** 19 Haziran 2026
 
 Bu Gizlilik Politikası, „**Dycers**" mobil uygulamasının (bundan böyle „**Uygulama**" olarak anılacaktır) kişisel verilerinizi nasıl topladığını, kullandığını, paylaştığını ve koruduğunu açıklamaktadır. AB Genel Veri Koruma Yönetmeliği („**GDPR**") ve eşdeğer yerel kurallara uygun şekilde hazırlanmıştır.
 
@@ -13,9 +13,9 @@ Bu Gizlilik Politikası, „**Dycers**" mobil uygulamasının (bundan böyle „
 
 ## 1. Veri sorumlusu
 
-Veri sorumlusu, Avrupa Birliği'nde yerleşik bireysel bir yayıncı olan **Quentin Ameline**'dir.
+Veri sorumlusu, Fransız hukukuna tabi, 2 € sermayeli basitleştirilmiş anonim şirket (*société par actions simplifiée*, SAS) olan, Nanterre Ticaret ve Şirketler Sicili'ne (RCS) 106 243 355 numarasıyla kayıtlı ve kayıtlı merkezi 63 rue Nationale, 92100 Boulogne-Billancourt, Fransa adresinde bulunan **LF Digital Ventures**'tür.
 
-Gizlilikle ilgili herhangi bir soru veya haklarınızı kullanmak için: **dycersofficial@gmail.com**
+Gizlilikle ilgili herhangi bir soru veya haklarınızı kullanmak için: **contact@dycers.com**
 
 ---
 
@@ -90,7 +90,7 @@ Kişisel verilerinizi hiçbir zaman satmıyoruz. Yalnızca aşağıdaki hizmet s
 
 ## 5. Uluslararası aktarımlar
 
-AEA dışına yapılan aktarımlar için Standart Sözleşme Maddelerine, AB-ABD Veri Gizliliği Çerçevesine veya eşdeğer güvencelere dayanıyoruz. **dycersofficial@gmail.com** adresine yazarak ilgili güvencelerin bir kopyasını talep edebilirsiniz.
+AEA dışına yapılan aktarımlar için Standart Sözleşme Maddelerine, AB-ABD Veri Gizliliği Çerçevesine veya eşdeğer güvencelere dayanıyoruz. **contact@dycers.com** adresine yazarak ilgili güvencelerin bir kopyasını talep edebilirsiniz.
 
 ---
 
@@ -118,7 +118,7 @@ AEA dışına yapılan aktarımlar için Standart Sözleşme Maddelerine, AB-ABD
 
 GDPR kapsamında şu haklara sahipsiniz: **Erişim**, **Düzeltme**, **Silme** (Uygulamada **Ayarlar → Hesap → Hesabı sil** bölümünde mevcuttur), **İşlemenin kısıtlanması**, **Veri taşınabilirliği**, **İtiraz** ve **Rızayı geri çekme**.
 
-Bu hakları kullanmak için, hesabınıza bağlı e-posta adresinizden **dycersofficial@gmail.com** adresine yazın. Bir (1) ay içinde yanıt vereceğiz.
+Bu hakları kullanmak için, hesabınıza bağlı e-posta adresinizden **contact@dycers.com** adresine yazın. Bir (1) ay içinde yanıt vereceğiz.
 
 ---
 
@@ -130,7 +130,7 @@ Uygun teknik ve organizasyonel önlemler uyguluyoruz: **TLS (HTTPS)** şifreleme
 
 ## 10. Çocuklar
 
-Uygulama **çocuklara yönelik değildir**. 18 yaşın altındaki kişilerden bilerek veri toplamıyoruz. Bir küçüğün bize kişisel veri sağladığını düşünüyorsanız **dycersofficial@gmail.com** adresinden bize ulaşın.
+Uygulama **çocuklara yönelik değildir**. 18 yaşın altındaki kişilerden bilerek veri toplamıyoruz. Bir küçüğün bize kişisel veri sağladığını düşünüyorsanız **contact@dycers.com** adresinden bize ulaşın.
 
 ---
 
@@ -160,7 +160,7 @@ Uygulama yerel bir mobil uygulamadır ve geleneksel web çerezleri kullanmaz. Ot
 
 ## 14. İletişim
 
-**dycersofficial@gmail.com**
+**contact@dycers.com**
 
 ---
 

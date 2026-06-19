@@ -4,8 +4,8 @@ title: Risikooffenlegung — Dycers
 
 # Risikooffenlegung — Dycers
 
-**Zuletzt aktualisiert:** 28. Mai 2026
-**Datum des Inkrafttretens:** 28. Mai 2026
+**Zuletzt aktualisiert:** 19. Juni 2026
+**Datum des Inkrafttretens:** 19. Juni 2026
 
 Bitte lesen Sie diese Risikooffenlegung sorgfältig, **bevor** Sie Dycers verwenden und bevor Sie eine Wette auf Basis der bereitgestellten Informationen platzieren. Dieses Dokument ist integraler Bestandteil der **Nutzungsbedingungen**.
 
@@ -135,4 +135,4 @@ Durch Tippen auf **„Ich stimme zu"** in der App bestätigen Sie, dass:
 
 *Wenn Sie mit einem Teil dieser Risikooffenlegung nicht einverstanden sind, verwenden Sie die App nicht.*
 
-**Für Hilfe: dycersofficial@gmail.com**
+**Für Hilfe: contact@dycers.com**

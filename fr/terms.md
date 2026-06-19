@@ -4,16 +4,16 @@ title: Conditions d'utilisation — Dycers
 
 # Conditions d'utilisation — Dycers
 
-**Dernière mise à jour :** 28 mai 2026
-**Date d'entrée en vigueur :** 28 mai 2026
+**Dernière mise à jour :** 19 juin 2026
+**Date d'entrée en vigueur :** 19 juin 2026
 
 ---
 
 ## 1. Qui sommes-nous
 
-L'application mobile « **Dycers** » (l'« **Application** ») est publiée et exploitée par **Quentin Ameline**, éditeur individuel établi dans l'Union européenne (« **nous** », « **notre** » ou l'« **Éditeur** »).
+L'application mobile « **Dycers** » (l'« **Application** ») est publiée et exploitée par **LF Digital Ventures**, société par actions simplifiée (SAS) au capital de 2 €, immatriculée au Registre du commerce et des sociétés de Nanterre sous le numéro 106 243 355, SIRET 106 243 355 00018, numéro de TVA intracommunautaire FR 08 106 243 355, dont le siège social est situé au 63 rue Nationale, 92100 Boulogne-Billancourt, France (« **nous** », « **notre** » ou l'« **Éditeur** »).
 
-Contact : **dycersofficial@gmail.com**
+Contact : **contact@dycers.com**
 
 Les présentes Conditions d'utilisation (les « **Conditions** ») constituent un contrat juridiquement contraignant entre vous (« **vous** », l'« **Utilisateur** ») et l'Éditeur. En créant un compte, en téléchargeant, installant ou en utilisant l'Application, vous acceptez intégralement les présentes Conditions. Si vous n'êtes pas d'accord, vous ne devez pas utiliser l'Application.
 
@@ -55,7 +55,7 @@ Vous vous engagez à :
 
 - Fournir des informations exactes et à jour ;
 - Garder vos identifiants confidentiels ;
-- Nous notifier sans délai à **dycersofficial@gmail.com** de toute utilisation non autorisée de votre compte.
+- Nous notifier sans délai à **contact@dycers.com** de toute utilisation non autorisée de votre compte.
 
 Vous êtes responsable de toute activité se produisant sous votre compte. Nous pouvons suspendre ou clôturer tout compte contenant des informations inexactes, utilisé par plusieurs personnes ou utilisé en violation des présentes Conditions.
 
@@ -208,7 +208,7 @@ Les sections qui, par leur nature, doivent survivre à la résiliation (notammen
 
 Les présentes Conditions sont régies par les lois du pays de résidence habituelle de l'Utilisateur, où s'appliquent les règles obligatoires de protection des consommateurs, et sinon par le droit substantiel de l'Union européenne et, à titre de complément, par le droit national du lieu d'établissement de l'Éditeur.
 
-**Règlement amiable.** Avant d'engager toute procédure, vous acceptez de nous contacter d'abord à **dycersofficial@gmail.com** et de tenter de résoudre le litige de bonne foi pendant une période d'au moins trente (30) jours.
+**Règlement amiable.** Avant d'engager toute procédure, vous acceptez de nous contacter d'abord à **contact@dycers.com** et de tenter de résoudre le litige de bonne foi pendant une période d'au moins trente (30) jours.
 
 **Résolution en ligne des litiges de l'UE.** Les consommateurs résidant dans l'Union européenne peuvent également utiliser la plateforme de résolution en ligne des litiges de la Commission européenne : <https://ec.europa.eu/consumers/odr>.
 

@@ -3,16 +3,16 @@ title: Terms of Use — Dycers
 ---
 # Terms of Use — Dycers
 
-**Last updated:** 28 May 2026
-**Effective date:** 28 May 2026
+**Last updated:** 19 June 2026
+**Effective date:** 19 June 2026
 
 ---
 
 ## 1. Who we are
 
-The mobile application "**Dycers**" (the "**App**") is published and operated by **Quentin Ameline**, an individual publisher established in the European Union ("**we**", "**us**", "**our**", or the "**Publisher**").
+The mobile application "**Dycers**" (the "**App**") is published and operated by **LF Digital Ventures**, a simplified joint-stock company (*société par actions simplifiée*, SAS) incorporated under French law with a share capital of €2, registered with the Trade and Companies Register (RCS) of Nanterre under number 106 243 355, SIRET 106 243 355 00018, intra-community VAT FR 08 106 243 355, whose registered office is located at 63 rue Nationale, 92100 Boulogne-Billancourt, France ("**we**", "**us**", "**our**", or the "**Publisher**").
 
-Contact: **dycersofficial@gmail.com.com**
+Contact: **contact@dycers.com.com**
 
 These Terms of Use (the "**Terms**") form a legally binding contract between you ("**you**", the "**User**") and the Publisher. By creating an account, downloading, installing or using the App, you accept these Terms in full. If you do not agree, you must not use the App.
 
@@ -54,7 +54,7 @@ You agree to:
 
 - Provide accurate and up-to-date information;
 - Keep your credentials confidential;
-- Notify us without delay at **dycersofficial@gmail.com** of any unauthorised use of your account.
+- Notify us without delay at **contact@dycers.com** of any unauthorised use of your account.
 
 You are responsible for all activity that occurs under your account. We may suspend or close any account that contains inaccurate information, is used by more than one person, or is used in breach of these Terms.
 
@@ -207,7 +207,7 @@ Sections that by their nature should survive termination (in particular sections
 
 These Terms are governed by the laws of the User's country of habitual residence, where mandatory consumer-protection rules apply, and otherwise by the substantive law of the European Union and, by way of supplement, the national law of the Publisher's place of establishment.
 
-**Amicable settlement.** Before bringing any claim, you agree to first contact us at **dycersofficial@gmail.com** and attempt to resolve the dispute in good faith for a period of at least thirty (30) days.
+**Amicable settlement.** Before bringing any claim, you agree to first contact us at **contact@dycers.com** and attempt to resolve the dispute in good faith for a period of at least thirty (30) days.
 
 **EU online dispute resolution.** Consumers resident in the European Union may also use the European Commission's Online Dispute Resolution platform: <https://ec.europa.eu/consumers/odr>.
 

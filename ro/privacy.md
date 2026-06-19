@@ -4,8 +4,8 @@ title: Politică de confidențialitate — Dycers
 
 # Politică de confidențialitate — Dycers
 
-**Ultima actualizare:** 28 mai 2026
-**Data intrării în vigoare:** 28 mai 2026
+**Ultima actualizare:** 19 iunie 2026
+**Data intrării în vigoare:** 19 iunie 2026
 
 Prezenta Politică de confidențialitate explică modul în care aplicația mobilă „**Dycers**" (denumită în continuare „**Aplicația**") colectează, utilizează, partajează și protejează datele dumneavoastră personale, în conformitate cu Regulamentul General al UE privind Protecția Datelor („**GDPR**") și normele locale echivalente.
 
@@ -13,9 +13,9 @@ Prezenta Politică de confidențialitate explică modul în care aplicația mobi
 
 ## 1. Operatorul de date
 
-Operatorul de date este **Quentin Ameline**, editor individual stabilit în Uniunea Europeană.
+Operatorul de date este **LF Digital Ventures**, societate pe acțiuni simplificată de drept francez (*société par actions simplifiée*, SAS) cu un capital social de 2 €, înregistrată la Registrul comerțului și al societăților (RCS) din Nanterre sub numărul 106 243 355, cu sediul social în 63 rue Nationale, 92100 Boulogne-Billancourt, Franța.
 
-Pentru orice întrebare privind confidențialitatea sau pentru a vă exercita drepturile: **dycersofficial@gmail.com**
+Pentru orice întrebare privind confidențialitatea sau pentru a vă exercita drepturile: **contact@dycers.com**
 
 ---
 
@@ -90,7 +90,7 @@ Nu vindem niciodată datele dumneavoastră personale. Le partajăm numai cu urm�
 
 ## 5. Transferuri internaționale
 
-Pentru transferurile în afara SEE, ne bazăm pe Clauzele contractuale standard, Cadrul de confidențialitate a datelor UE–SUA sau garanții echivalente. Puteți solicita o copie a garanțiilor relevante scriind la **dycersofficial@gmail.com**.
+Pentru transferurile în afara SEE, ne bazăm pe Clauzele contractuale standard, Cadrul de confidențialitate a datelor UE–SUA sau garanții echivalente. Puteți solicita o copie a garanțiilor relevante scriind la **contact@dycers.com**.
 
 ---
 
@@ -118,7 +118,7 @@ La **nivelul gratuit**, Aplicația poate afișa reclame prin **Google AdMob**. V
 
 Conform GDPR, aveți dreptul la: **Acces**, **Rectificare**, **Ștergere** (disponibil în Aplicație la **Setări → Cont → Șterge cont**), **Restricționarea prelucrării**, **Portabilitatea datelor**, **Obiecție** și **Retragerea consimțământului**.
 
-Scrieți la **dycersofficial@gmail.com** de la adresa de e-mail asociată contului dumneavoastră. Vom răspunde în termen de o (1) lună.
+Scrieți la **contact@dycers.com** de la adresa de e-mail asociată contului dumneavoastră. Vom răspunde în termen de o (1) lună.
 
 ---
 
@@ -130,7 +130,7 @@ Aplicăm măsuri tehnice și organizatorice adecvate: criptare **TLS (HTTPS)**, 
 
 ## 10. Minori
 
-Aplicația **nu este destinată minorilor**. Nu colectăm în mod intenționat date de la persoane cu vârsta sub 18 ani. Contactați-ne la **dycersofficial@gmail.com** dacă credeți că un minor ne-a furnizat date personale.
+Aplicația **nu este destinată minorilor**. Nu colectăm în mod intenționat date de la persoane cu vârsta sub 18 ani. Contactați-ne la **contact@dycers.com** dacă credeți că un minor ne-a furnizat date personale.
 
 ---
 
@@ -160,7 +160,7 @@ Aplicația este o aplicație mobilă nativă și nu folosește cookie-uri web tr
 
 ## 14. Contact
 
-**dycersofficial@gmail.com**
+**contact@dycers.com**
 
 ---
 

@@ -4,8 +4,8 @@ title: Ujawnienie ryzyka — Dycers
 
 # Ujawnienie ryzyka — Dycers
 
-**Ostatnia aktualizacja:** 28 maja 2026
-**Data wejścia w życie:** 28 maja 2026
+**Ostatnia aktualizacja:** 19 czerwca 2026
+**Data wejścia w życie:** 19 czerwca 2026
 
 Prosimy o uważne przeczytanie niniejszego Ujawnienia ryzyka **przed** korzystaniem z Dycers i przed postawieniem jakiegokolwiek zakładu na podstawie dostarczonych informacji. Niniejszy dokument stanowi integralną część **Warunków korzystania**.
 
@@ -135,4 +135,4 @@ Stukając **„Akceptuję"** w Aplikacji, potwierdzasz i przyjmujesz do wiadomo�
 
 *Jeśli nie zgadzasz się z jakąkolwiek częścią niniejszego Ujawnienia ryzyka, nie korzystaj z Aplikacji.*
 
-**Po pomoc: dycersofficial@gmail.com**
+**Po pomoc: contact@dycers.com**

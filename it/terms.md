@@ -4,16 +4,16 @@ title: Termini di utilizzo — Dycers
 
 # Termini di utilizzo — Dycers
 
-**Ultimo aggiornamento:** 28 maggio 2026
-**Data di entrata in vigore:** 28 maggio 2026
+**Ultimo aggiornamento:** 19 giugno 2026
+**Data di entrata in vigore:** 19 giugno 2026
 
 ---
 
 ## 1. Chi siamo
 
-L'applicazione mobile «**Dycers**» (l'«**App**») è pubblicata e gestita da **Quentin Ameline**, editore individuale stabilito nell'Unione Europea («**noi**», «**nostro**» o l'«**Editore**»).
+L'applicazione mobile «**Dycers**» (l'«**App**») è pubblicata e gestita da **LF Digital Ventures**, società per azioni semplificata di diritto francese (*société par actions simplifiée*, SAS) con un capitale sociale di 2 €, iscritta al Registro del commercio e delle società (RCS) di Nanterre con il numero 106 243 355, SIRET 106 243 355 00018, partita IVA intracomunitaria FR 08 106 243 355, con sede legale in 63 rue Nationale, 92100 Boulogne-Billancourt, Francia («**noi**», «**nostro**» o l'«**Editore**»).
 
-Contatto: **dycersofficial@gmail.com**
+Contatto: **contact@dycers.com**
 
 I presenti Termini di utilizzo (i «**Termini**») costituiscono un contratto legalmente vincolante tra lei («**lei**», l'«**Utente**») e l'Editore. Creando un account, scaricando, installando o utilizzando l'App, accetta integralmente i presenti Termini. In caso di disaccordo, non deve utilizzare l'App.
 
@@ -53,7 +53,7 @@ Lei si impegna a:
 
 - Fornire informazioni accurate e aggiornate;
 - Mantenere le proprie credenziali riservate;
-- Notificarci senza indugio all'indirizzo **dycersofficial@gmail.com** in caso di utilizzo non autorizzato del suo account.
+- Notificarci senza indugio all'indirizzo **contact@dycers.com** in caso di utilizzo non autorizzato del suo account.
 
 ---
 
@@ -167,7 +167,7 @@ Può smettere di utilizzare l'App in qualsiasi momento ed eliminare il suo accou
 
 ## 18. Legge applicabile e risoluzione delle controversie
 
-I presenti Termini sono disciplinati dalle leggi del paese di residenza abituale dell'Utente, dove si applicano le norme obbligatorie di protezione dei consumatori. Prima di avviare qualsiasi procedimento, la invitiamo a contattarci all'indirizzo **dycersofficial@gmail.com** e a tentare di risolvere la controversia in buona fede entro almeno trenta (30) giorni.
+I presenti Termini sono disciplinati dalle leggi del paese di residenza abituale dell'Utente, dove si applicano le norme obbligatorie di protezione dei consumatori. Prima di avviare qualsiasi procedimento, la invitiamo a contattarci all'indirizzo **contact@dycers.com** e a tentare di risolvere la controversia in buona fede entro almeno trenta (30) giorni.
 
 **Risoluzione online delle controversie UE:** <https://ec.europa.eu/consumers/odr>
 

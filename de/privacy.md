@@ -4,8 +4,8 @@ title: Datenschutzrichtlinie — Dycers
 
 # Datenschutzrichtlinie — Dycers
 
-**Zuletzt aktualisiert:** 28. Mai 2026
-**Datum des Inkrafttretens:** 28. Mai 2026
+**Zuletzt aktualisiert:** 19. Juni 2026
+**Datum des Inkrafttretens:** 19. Juni 2026
 
 Diese Datenschutzrichtlinie erläutert, wie die mobile Anwendung „**Dycers**" (die „**App**") Ihre personenbezogenen Daten erhebt, verwendet, weitergibt und schützt. Sie entspricht der EU-Datenschutz-Grundverordnung (DSGVO) und gleichwertigen lokalen Vorschriften.
 
@@ -13,9 +13,9 @@ Diese Datenschutzrichtlinie erläutert, wie die mobile Anwendung „**Dycers**" 
 
 ## 1. Verantwortlicher
 
-Der Verantwortliche ist **Quentin Ameline**, ein in der Europäischen Union ansässiger Einzelherausgeber.
+Der Verantwortliche ist **LF Digital Ventures**, eine vereinfachte Aktiengesellschaft französischen Rechts (*société par actions simplifiée*, SAS) mit einem Stammkapital von 2 €, eingetragen im Handels- und Gesellschaftsregister (RCS) Nanterre unter der Nummer 106 243 355, mit Sitz in 63 rue Nationale, 92100 Boulogne-Billancourt, Frankreich.
 
-Für datenschutzbezogene Anfragen oder zur Ausübung Ihrer Rechte: **dycersofficial@gmail.com**
+Für datenschutzbezogene Anfragen oder zur Ausübung Ihrer Rechte: **contact@dycers.com**
 
 ---
 
@@ -90,7 +90,7 @@ Wir verkaufen Ihre Daten nicht. Wir teilen sie nur mit folgenden Dienstleistern:
 
 ## 5. Internationale Datenübermittlungen
 
-Für Übermittlungen außerhalb des EWR stützen wir uns auf Standardvertragsklauseln, den EU-US-Datenschutzrahmen oder gleichwertige Garantien. Sie können eine Kopie der relevanten Garantien bei **dycersofficial@gmail.com** anfordern.
+Für Übermittlungen außerhalb des EWR stützen wir uns auf Standardvertragsklauseln, den EU-US-Datenschutzrahmen oder gleichwertige Garantien. Sie können eine Kopie der relevanten Garantien bei **contact@dycers.com** anfordern.
 
 ---
 
@@ -118,7 +118,7 @@ In der **kostenlosen Stufe** kann die App Werbung über **Google AdMob** anzeige
 
 Nach DSGVO haben Sie das Recht auf: **Auskunft**, **Berichtigung**, **Löschung** (direkt in der App unter **Einstellungen → Konto → Konto löschen**), **Einschränkung der Verarbeitung**, **Datenübertragbarkeit**, **Widerspruch** und **Widerruf der Einwilligung**.
 
-Richten Sie Anfragen an **dycersofficial@gmail.com**. Wir antworten innerhalb eines (1) Monats. Sie können auch eine Beschwerde bei Ihrer nationalen Datenschutzbehörde einreichen.
+Richten Sie Anfragen an **contact@dycers.com**. Wir antworten innerhalb eines (1) Monats. Sie können auch eine Beschwerde bei Ihrer nationalen Datenschutzbehörde einreichen.
 
 ---
 
@@ -130,7 +130,7 @@ Wir wenden angemessene technische und organisatorische Maßnahmen an: **TLS (HTT
 
 ## 10. Kinder
 
-Die App **richtet sich nicht an Kinder**. Wir erheben wissentlich keine Daten von Personen unter 18 Jahren. Kontaktieren Sie uns unter **dycersofficial@gmail.com**, wenn Sie glauben, dass ein Minderjähriger uns personenbezogene Daten übermittelt hat.
+Die App **richtet sich nicht an Kinder**. Wir erheben wissentlich keine Daten von Personen unter 18 Jahren. Kontaktieren Sie uns unter **contact@dycers.com**, wenn Sie glauben, dass ein Minderjähriger uns personenbezogene Daten übermittelt hat.
 
 ---
 
@@ -160,7 +160,7 @@ Bei wesentlichen Änderungen werden wir Sie in der App oder per E-Mail mindesten
 
 ## 14. Kontakt
 
-**dycersofficial@gmail.com**
+**contact@dycers.com**
 
 ---
 

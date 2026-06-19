@@ -4,8 +4,8 @@ title: Política de privacidad — Dycers
 
 # Política de privacidad — Dycers
 
-**Última actualización:** 28 de mayo de 2026
-**Fecha de entrada en vigor:** 28 de mayo de 2026
+**Última actualización:** 19 de junio de 2026
+**Fecha de entrada en vigor:** 19 de junio de 2026
 
 La presente Política de privacidad explica cómo la aplicación móvil «**Dycers**» (la «**Aplicación**») recopila, utiliza, comparte y protege sus datos personales, de conformidad con el Reglamento General de Protección de Datos de la UE («**RGPD**») y las normas locales equivalentes.
 
@@ -13,9 +13,9 @@ La presente Política de privacidad explica cómo la aplicación móvil «**Dyce
 
 ## 1. Responsable del tratamiento
 
-El responsable del tratamiento es **Quentin Ameline**, editor individual establecido en la Unión Europea.
+El responsable del tratamiento es **LF Digital Ventures**, sociedad por acciones simplificada de Derecho francés (*société par actions simplifiée*, SAS) con un capital social de 2 €, inscrita en el Registro Mercantil y de Sociedades (RCS) de Nanterre con el número 106 243 355, con domicilio social en 63 rue Nationale, 92100 Boulogne-Billancourt, Francia.
 
-Para cualquier consulta sobre privacidad o para ejercer sus derechos, contáctenos en: **dycersofficial@gmail.com**
+Para cualquier consulta sobre privacidad o para ejercer sus derechos, contáctenos en: **contact@dycers.com**
 
 ---
 
@@ -90,7 +90,7 @@ Nunca vendemos sus datos personales. Los compartimos únicamente con los siguien
 
 ## 5. Transferencias internacionales
 
-Para las transferencias fuera del EEE, aplicamos las Cláusulas Contractuales Tipo, el Marco de Privacidad de Datos UE–EE. UU. u otras garantías equivalentes reconocidas por el RGPD. Puede solicitar una copia de las garantías pertinentes escribiendo a **dycersofficial@gmail.com**.
+Para las transferencias fuera del EEE, aplicamos las Cláusulas Contractuales Tipo, el Marco de Privacidad de Datos UE–EE. UU. u otras garantías equivalentes reconocidas por el RGPD. Puede solicitar una copia de las garantías pertinentes escribiendo a **contact@dycers.com**.
 
 ---
 
@@ -118,7 +118,7 @@ En el **nivel gratuito**, la Aplicación puede mostrar publicidad a través de *
 
 Bajo el RGPD usted tiene derecho a: **Acceso**, **Rectificación**, **Supresión** (disponible en la Aplicación en **Configuración → Cuenta → Eliminar cuenta**), **Limitación**, **Portabilidad**, **Oposición** y **Retirada del consentimiento**.
 
-Para ejercer estos derechos, escriba a **dycersofficial@gmail.com** desde la dirección de correo vinculada a su cuenta. Responderemos en el plazo de un (1) mes.
+Para ejercer estos derechos, escriba a **contact@dycers.com** desde la dirección de correo vinculada a su cuenta. Responderemos en el plazo de un (1) mes.
 
 ---
 
@@ -130,7 +130,7 @@ Aplicamos medidas técnicas y organizativas apropiadas: cifrado **TLS (HTTPS)**,
 
 ## 10. Menores
 
-La Aplicación **no está destinada a menores**. No recopilamos conscientemente datos de personas menores de 18 años. Si cree que un menor nos ha proporcionado datos personales, contáctenos en **dycersofficial@gmail.com**.
+La Aplicación **no está destinada a menores**. No recopilamos conscientemente datos de personas menores de 18 años. Si cree que un menor nos ha proporcionado datos personales, contáctenos en **contact@dycers.com**.
 
 ---
 
@@ -160,7 +160,7 @@ Si realizamos cambios importantes, le notificaremos en la Aplicación o por corr
 
 ## 14. Contacto
 
-**dycersofficial@gmail.com**
+**contact@dycers.com**
 
 ---
 

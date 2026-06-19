@@ -4,16 +4,16 @@ title: Términos de uso — Dycers
 
 # Términos de uso — Dycers
 
-**Última actualización:** 28 de mayo de 2026
-**Fecha de entrada en vigor:** 28 de mayo de 2026
+**Última actualización:** 19 de junio de 2026
+**Fecha de entrada en vigor:** 19 de junio de 2026
 
 ---
 
 ## 1. Quiénes somos
 
-La aplicación móvil «**Dycers**» (la «**Aplicación**») es publicada y operada por **Quentin Ameline**, editor individual establecido en la Unión Europea («**nosotros**», «**nuestro**» o el «**Editor**»).
+La aplicación móvil «**Dycers**» (la «**Aplicación**») es publicada y operada por **LF Digital Ventures**, sociedad por acciones simplificada de Derecho francés (*société par actions simplifiée*, SAS) con un capital social de 2 €, inscrita en el Registro Mercantil y de Sociedades (RCS) de Nanterre con el número 106 243 355, SIRET 106 243 355 00018, número de IVA intracomunitario FR 08 106 243 355, con domicilio social en 63 rue Nationale, 92100 Boulogne-Billancourt, Francia («**nosotros**», «**nuestro**» o el «**Editor**»).
 
-Contacto: **dycersofficial@gmail.com**
+Contacto: **contact@dycers.com**
 
 Los presentes Términos de uso (los «**Términos**») constituyen un contrato legalmente vinculante entre usted («**usted**», el «**Usuario**») y el Editor. Al crear una cuenta, descargar, instalar o utilizar la Aplicación, usted acepta íntegramente los presentes Términos. Si no está de acuerdo, no debe utilizar la Aplicación.
 
@@ -55,7 +55,7 @@ Usted se compromete a:
 
 - Proporcionar información precisa y actualizada;
 - Mantener sus credenciales en confidencialidad;
-- Notificarnos sin demora en **dycersofficial@gmail.com** sobre cualquier uso no autorizado de su cuenta.
+- Notificarnos sin demora en **contact@dycers.com** sobre cualquier uso no autorizado de su cuenta.
 
 Usted es responsable de toda la actividad que ocurra bajo su cuenta. Podemos suspender o cerrar cualquier cuenta que contenga información inexacta, sea utilizada por más de una persona o se use en infracción de los presentes Términos.
 
@@ -173,7 +173,7 @@ Puede dejar de usar la Aplicación en cualquier momento y eliminar su cuenta des
 
 ## 18. Ley aplicable y resolución de disputas
 
-Los presentes Términos se rigen por las leyes del país de residencia habitual del Usuario, donde se aplican las normas obligatorias de protección del consumidor. Antes de iniciar cualquier reclamación, contacte con nosotros en **dycersofficial@gmail.com** e intente resolver la disputa de buena fe durante al menos treinta (30) días.
+Los presentes Términos se rigen por las leyes del país de residencia habitual del Usuario, donde se aplican las normas obligatorias de protección del consumidor. Antes de iniciar cualquier reclamación, contacte con nosotros en **contact@dycers.com** e intente resolver la disputa de buena fe durante al menos treinta (30) días.
 
 **Resolución de litigios en línea de la UE:** <https://ec.europa.eu/consumers/odr>
 

@@ -4,8 +4,8 @@ title: Informativa sulla privacy — Dycers
 
 # Informativa sulla privacy — Dycers
 
-**Ultimo aggiornamento:** 28 maggio 2026
-**Data di entrata in vigore:** 28 maggio 2026
+**Ultimo aggiornamento:** 19 giugno 2026
+**Data di entrata in vigore:** 19 giugno 2026
 
 La presente Informativa sulla privacy spiega come l'applicazione mobile «**Dycers**» (l'«**App**») raccoglie, utilizza, condivide e protegge i suoi dati personali, in conformità con il Regolamento Generale sulla Protezione dei Dati dell'UE («**GDPR**») e le normative locali equivalenti.
 
@@ -13,9 +13,9 @@ La presente Informativa sulla privacy spiega come l'applicazione mobile «**Dyce
 
 ## 1. Titolare del trattamento
 
-Il titolare del trattamento è **Quentin Ameline**, editore individuale stabilito nell'Unione Europea.
+Il titolare del trattamento è **LF Digital Ventures**, società per azioni semplificata di diritto francese (*société par actions simplifiée*, SAS) con un capitale sociale di 2 €, iscritta al Registro del commercio e delle società (RCS) di Nanterre con il numero 106 243 355, con sede legale in 63 rue Nationale, 92100 Boulogne-Billancourt, Francia.
 
-Per qualsiasi domanda sulla privacy o per esercitare i suoi diritti: **dycersofficial@gmail.com**
+Per qualsiasi domanda sulla privacy o per esercitare i suoi diritti: **contact@dycers.com**
 
 ---
 
@@ -90,7 +90,7 @@ Non vendiamo mai i suoi dati personali. Li condividiamo solo con i seguenti forn
 
 ## 5. Trasferimenti internazionali
 
-Per i trasferimenti fuori dallo SEE, ci basiamo sulle Clausole Contrattuali Standard, sul Framework UE-USA sulla protezione dei dati o su garanzie equivalenti. Può richiedere una copia delle garanzie pertinenti scrivendo a **dycersofficial@gmail.com**.
+Per i trasferimenti fuori dallo SEE, ci basiamo sulle Clausole Contrattuali Standard, sul Framework UE-USA sulla protezione dei dati o su garanzie equivalenti. Può richiedere una copia delle garanzie pertinenti scrivendo a **contact@dycers.com**.
 
 ---
 
@@ -118,7 +118,7 @@ Nel **livello gratuito**, l'App può visualizzare pubblicità tramite **Google A
 
 Ai sensi del GDPR, lei ha il diritto di: **Accesso**, **Rettifica**, **Cancellazione** (disponibile nell'App in **Impostazioni → Account → Elimina account**), **Limitazione del trattamento**, **Portabilità**, **Opposizione** e **Revoca del consenso**.
 
-Per esercitare questi diritti, scriva a **dycersofficial@gmail.com** dall'indirizzo e-mail associato al suo account. Risponderemo entro un (1) mese.
+Per esercitare questi diritti, scriva a **contact@dycers.com** dall'indirizzo e-mail associato al suo account. Risponderemo entro un (1) mese.
 
 ---
 
@@ -130,7 +130,7 @@ Applichiamo misure tecniche e organizzative appropriate: cifratura **TLS (HTTPS)
 
 ## 10. Minori
 
-L'App **non è destinata ai minori**. Non raccogliamo consapevolmente dati da persone di età inferiore a 18 anni. Contatti **dycersofficial@gmail.com** se ritiene che un minore ci abbia fornito dati personali.
+L'App **non è destinata ai minori**. Non raccogliamo consapevolmente dati da persone di età inferiore a 18 anni. Contatti **contact@dycers.com** se ritiene che un minore ci abbia fornito dati personali.
 
 ---
 
@@ -160,7 +160,7 @@ In caso di modifiche sostanziali, la informeremo nell'App o via e-mail almeno qu
 
 ## 14. Contatto
 
-**dycersofficial@gmail.com**
+**contact@dycers.com**
 
 ---
 

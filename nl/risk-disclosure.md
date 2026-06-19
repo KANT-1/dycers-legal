@@ -4,8 +4,8 @@ title: Risicomelding — Dycers
 
 # Risicomelding — Dycers
 
-**Laatste update:** 28 mei 2026
-**Datum van inwerkingtreding:** 28 mei 2026
+**Laatste update:** 19 juni 2026
+**Datum van inwerkingtreding:** 19 juni 2026
 
 Lees deze Risicomelding zorgvuldig **voordat** u Dycers gebruikt en voordat u een weddenschap plaatst op basis van de verstrekte informatie. Dit document is een integraal onderdeel van de **Gebruiksvoorwaarden**.
 
@@ -135,4 +135,4 @@ Door te tikken op **«Ik ga akkoord»** in de App, erkent en bevestigt u dat:
 
 *Als u het niet eens bent met enig deel van deze Risicomelding, gebruik de App dan niet.*
 
-**Voor hulp: dycersofficial@gmail.com**
+**Voor hulp: contact@dycers.com**

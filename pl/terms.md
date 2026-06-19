@@ -4,16 +4,16 @@ title: Warunki korzystania — Dycers
 
 # Warunki korzystania — Dycers
 
-**Ostatnia aktualizacja:** 28 maja 2026
-**Data wejścia w życie:** 28 maja 2026
+**Ostatnia aktualizacja:** 19 czerwca 2026
+**Data wejścia w życie:** 19 czerwca 2026
 
 ---
 
 ## 1. Kim jesteśmy
 
-Aplikacja mobilna „**Dycers**" (dalej „**Aplikacja**") jest publikowana i obsługiwana przez **Quentina Ameline'a**, indywidualnego wydawcę z siedzibą w Unii Europejskiej („**my**", „**nas**" lub „**Wydawca**").
+Aplikacja mobilna „**Dycers**" (dalej „**Aplikacja**") jest publikowana i obsługiwana przez **LF Digital Ventures**, uproszczoną spółkę akcyjną prawa francuskiego (*société par actions simplifiée*, SAS) o kapitale zakładowym 2 €, wpisaną do rejestru handlowego i spółek (RCS) w Nanterre pod numerem 106 243 355, SIRET 106 243 355 00018, numer VAT UE FR 08 106 243 355, z siedzibą pod adresem 63 rue Nationale, 92100 Boulogne-Billancourt, Francja („**my**", „**nas**" lub „**Wydawca**").
 
-Kontakt: **dycersofficial@gmail.com**
+Kontakt: **contact@dycers.com**
 
 Niniejsze Warunki korzystania (dalej „**Warunki**") stanowią prawnie wiążącą umowę między Tobą („**Ty**", „**Użytkownik**") a Wydawcą. Tworząc konto, pobierając, instalując lub korzystając z Aplikacji, w pełni akceptujesz niniejsze Warunki. Jeśli nie zgadzasz się, nie powinieneś korzystać z Aplikacji.
 
@@ -53,7 +53,7 @@ Zobowiązujesz się do:
 
 - Podawania dokładnych i aktualnych informacji;
 - Zachowania poufności swoich danych logowania;
-- Niezwłocznego powiadamiania nas pod adresem **dycersofficial@gmail.com** o wszelkim nieautoryzowanym użyciu Twojego konta.
+- Niezwłocznego powiadamiania nas pod adresem **contact@dycers.com** o wszelkim nieautoryzowanym użyciu Twojego konta.
 
 ---
 
@@ -167,7 +167,7 @@ Możesz zaprzestać korzystania z Aplikacji w dowolnym momencie i usunąć swoje
 
 ## 18. Prawo właściwe i rozstrzyganie sporów
 
-Niniejsze Warunki podlegają prawu kraju zwykłego pobytu Użytkownika, gdzie stosują się obowiązkowe przepisy o ochronie konsumentów. Przed wszczęciem jakiegokolwiek postępowania skontaktuj się z nami pod adresem **dycersofficial@gmail.com** i spróbuj rozwiązać spór w dobrej wierze przez co najmniej trzydzieści (30) dni.
+Niniejsze Warunki podlegają prawu kraju zwykłego pobytu Użytkownika, gdzie stosują się obowiązkowe przepisy o ochronie konsumentów. Przed wszczęciem jakiegokolwiek postępowania skontaktuj się z nami pod adresem **contact@dycers.com** i spróbuj rozwiązać spór w dobrej wierze przez co najmniej trzydzieści (30) dni.
 
 **Platforma ODR UE:** <https://ec.europa.eu/consumers/odr>
 

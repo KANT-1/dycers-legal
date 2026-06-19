@@ -4,16 +4,16 @@ title: Gebruiksvoorwaarden — Dycers
 
 # Gebruiksvoorwaarden — Dycers
 
-**Laatste update:** 28 mei 2026
-**Datum van inwerkingtreding:** 28 mei 2026
+**Laatste update:** 19 juni 2026
+**Datum van inwerkingtreding:** 19 juni 2026
 
 ---
 
 ## 1. Wie wij zijn
 
-De mobiele applicatie «**Dycers**» (de «**App**») wordt gepubliceerd en beheerd door **Quentin Ameline**, een individuele uitgever gevestigd in de Europese Unie («**wij**», «**ons**» of de «**Uitgever**»).
+De mobiele applicatie «**Dycers**» (de «**App**») wordt gepubliceerd en beheerd door **LF Digital Ventures**, een vereenvoudigde naamloze vennootschap naar Frans recht (*société par actions simplifiée*, SAS) met een maatschappelijk kapitaal van € 2, ingeschreven in het handels- en vennootschapsregister (RCS) van Nanterre onder nummer 106 243 355, SIRET 106 243 355 00018, intracommunautair btw-nummer FR 08 106 243 355, met maatschappelijke zetel te 63 rue Nationale, 92100 Boulogne-Billancourt, Frankrijk («**wij**», «**ons**» of de «**Uitgever**»).
 
-Contact: **dycersofficial@gmail.com**
+Contact: **contact@dycers.com**
 
 Deze Gebruiksvoorwaarden (de «**Voorwaarden**») vormen een juridisch bindend contract tussen u («**u**», de «**Gebruiker**») en de Uitgever. Door een account aan te maken, de App te downloaden, te installeren of te gebruiken, accepteert u deze Voorwaarden volledig. Als u het niet eens bent, mag u de App niet gebruiken.
 
@@ -53,7 +53,7 @@ U stemt ermee in om:
 
 - Nauwkeurige en actuele informatie te verstrekken;
 - Uw inloggegevens vertrouwelijk te houden;
-- Ons onmiddellijk op de hoogte te stellen via **dycersofficial@gmail.com** van ongeoorloofd gebruik van uw account.
+- Ons onmiddellijk op de hoogte te stellen via **contact@dycers.com** van ongeoorloofd gebruik van uw account.
 
 ---
 
@@ -167,7 +167,7 @@ U kunt de App op elk moment stoppen met gebruiken en uw account verwijderen via 
 
 ## 18. Toepasselijk recht en geschillenbeslechting
 
-Deze Voorwaarden worden beheerst door de wet van het gewone verblijfplaatsland van de Gebruiker, waar dwingende consumentenbeschermingsregels van toepassing zijn. Neem vóór het instellen van enige vordering eerst contact op via **dycersofficial@gmail.com** en probeer het geschil te goeder trouw op te lossen gedurende minimaal dertig (30) dagen.
+Deze Voorwaarden worden beheerst door de wet van het gewone verblijfplaatsland van de Gebruiker, waar dwingende consumentenbeschermingsregels van toepassing zijn. Neem vóór het instellen van enige vordering eerst contact op via **contact@dycers.com** en probeer het geschil te goeder trouw op te lossen gedurende minimaal dertig (30) dagen.
 
 **EU Online geschillenbeslechting:** <https://ec.europa.eu/consumers/odr>
 

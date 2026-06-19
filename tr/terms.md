@@ -4,16 +4,16 @@ title: Kullanım Koşulları — Dycers
 
 # Kullanım Koşulları — Dycers
 
-**Son güncelleme:** 28 Mayıs 2026
-**Yürürlük tarihi:** 28 Mayıs 2026
+**Son güncelleme:** 19 Haziran 2026
+**Yürürlük tarihi:** 19 Haziran 2026
 
 ---
 
 ## 1. Biz kimiz
 
-„**Dycers**" mobil uygulaması (bundan böyle „**Uygulama**" olarak anılacaktır), Avrupa Birliği'nde yerleşik bireysel bir yayıncı olan **Quentin Ameline** tarafından yayımlanmakta ve işletilmektedir („**biz**", „**bizim**" veya „**Yayıncı**").
+„**Dycers**" mobil uygulaması (bundan böyle „**Uygulama**" olarak anılacaktır), Fransız hukukuna tabi, 2 € sermayeli basitleştirilmiş anonim şirket (*société par actions simplifiée*, SAS) olan, Nanterre Ticaret ve Şirketler Sicili'ne (RCS) 106 243 355 numarasıyla kayıtlı, SIRET 106 243 355 00018, AB içi KDV numarası FR 08 106 243 355, kayıtlı merkezi 63 rue Nationale, 92100 Boulogne-Billancourt, Fransa adresinde bulunan **LF Digital Ventures** tarafından yayımlanmakta ve işletilmektedir („**biz**", „**bizim**" veya „**Yayıncı**").
 
-İletişim: **dycersofficial@gmail.com**
+İletişim: **contact@dycers.com**
 
 Bu Kullanım Koşulları (bundan böyle „**Koşullar**" olarak anılacaktır), siz („**siz**", „**Kullanıcı**") ile Yayıncı arasında hukuken bağlayıcı bir sözleşme oluşturmaktadır. Hesap oluşturarak, Uygulamayı indirerek, yükleyerek veya kullanarak bu Koşulları tamamen kabul etmiş olursunuz. Kabul etmiyorsanız Uygulamayı kullanmamalısınız.
 
@@ -53,7 +53,7 @@ Uygulamayı kullanabilmek için:
 
 - Doğru ve güncel bilgi sağlamak;
 - Giriş bilgilerinizi gizli tutmak;
-- Hesabınızın yetkisiz kullanımı hakkında bizi **dycersofficial@gmail.com** adresinden gecikmeksizin bilgilendirmek.
+- Hesabınızın yetkisiz kullanımı hakkında bizi **contact@dycers.com** adresinden gecikmeksizin bilgilendirmek.
 
 ---
 
@@ -167,7 +167,7 @@ Uygulamayı istediğiniz zaman kullanmayı bırakabilir ve hesabınızı **Ayarl
 
 ## 18. Uygulanacak hukuk ve uyuşmazlık çözümü
 
-Bu Koşullar, zorunlu tüketici koruma kurallarının geçerli olduğu Kullanıcının olağan ikamet ettiği ülkenin hukukuna tabidir. Herhangi bir işlem başlatmadan önce lütfen **dycersofficial@gmail.com** adresinden bizimle iletişime geçin ve uyuşmazlığı en az otuz (30) gün boyunca iyi niyetle çözmeye çalışın.
+Bu Koşullar, zorunlu tüketici koruma kurallarının geçerli olduğu Kullanıcının olağan ikamet ettiği ülkenin hukukuna tabidir. Herhangi bir işlem başlatmadan önce lütfen **contact@dycers.com** adresinden bizimle iletişime geçin ve uyuşmazlığı en az otuz (30) gün boyunca iyi niyetle çözmeye çalışın.
 
 **AB Çevrimiçi Uyuşmazlık Çözümü:** <https://ec.europa.eu/consumers/odr>
 

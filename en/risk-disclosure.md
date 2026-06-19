@@ -3,8 +3,8 @@ title: Risk Disclosure — Dycers
 ---
 # Risk Disclosure — Dycers
 
-**Last updated:** 28 May 2026
-**Effective date:** 28 May 2026
+**Last updated:** 19 June 2026
+**Effective date:** 19 June 2026
 
 Please read this Risk Disclosure carefully **before** using Dycers (the "**App**") and before placing any bet on the basis of information provided by it. This document is an integral part of the **Terms of Use**.
 
@@ -188,4 +188,4 @@ By tapping **"I agree"** in the App, or by continuing to use the App after the e
 
 *If you do not agree with any part of this Risk Disclosure, do not use the App.*
 
-**For help: dycersofficial@gmail.com**
+**For help: contact@dycers.com**

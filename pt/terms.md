@@ -4,16 +4,16 @@ title: Termos de utilização — Dycers
 
 # Termos de utilização — Dycers
 
-**Última atualização:** 28 de maio de 2026
-**Data de entrada em vigor:** 28 de maio de 2026
+**Última atualização:** 19 de junho de 2026
+**Data de entrada em vigor:** 19 de junho de 2026
 
 ---
 
 ## 1. Quem somos
 
-A aplicação móvel «**Dycers**» (a «**Aplicação**») é publicada e operada por **Quentin Ameline**, editor individual estabelecido na União Europeia («**nós**», «**nosso**» ou o «**Editor**»).
+A aplicação móvel «**Dycers**» (a «**Aplicação**») é publicada e operada por **LF Digital Ventures**, sociedade por ações simplificada de direito francês (*société par actions simplifiée*, SAS) com um capital social de 2 €, registada no Registo do Comércio e das Sociedades (RCS) de Nanterre sob o número 106 243 355, SIRET 106 243 355 00018, número de IVA intracomunitário FR 08 106 243 355, com sede social em 63 rue Nationale, 92100 Boulogne-Billancourt, França («**nós**», «**nosso**» ou o «**Editor**»).
 
-Contacto: **dycersofficial@gmail.com**
+Contacto: **contact@dycers.com**
 
 Os presentes Termos de utilização (os «**Termos**») constituem um contrato juridicamente vinculativo entre você («**você**», o «**Utilizador**») e o Editor. Ao criar uma conta, transferir, instalar ou utilizar a Aplicação, aceita integralmente os presentes Termos. Se não concordar, não deve utilizar a Aplicação.
 
@@ -53,7 +53,7 @@ Compromete-se a:
 
 - Fornecer informações precisas e atualizadas;
 - Manter as suas credenciais confidenciais;
-- Notificar-nos sem demora em **dycersofficial@gmail.com** sobre qualquer utilização não autorizada da sua conta.
+- Notificar-nos sem demora em **contact@dycers.com** sobre qualquer utilização não autorizada da sua conta.
 
 ---
 
@@ -167,7 +167,7 @@ Pode deixar de utilizar a Aplicação em qualquer momento e eliminar a sua conta
 
 ## 18. Lei aplicável e resolução de litígios
 
-Os presentes Termos são regidos pelas leis do país de residência habitual do Utilizador, onde se aplicam as normas obrigatórias de proteção dos consumidores. Antes de iniciar qualquer procedimento, contacte-nos em **dycersofficial@gmail.com** e tente resolver o litígio de boa-fé durante pelo menos trinta (30) dias.
+Os presentes Termos são regidos pelas leis do país de residência habitual do Utilizador, onde se aplicam as normas obrigatórias de proteção dos consumidores. Antes de iniciar qualquer procedimento, contacte-nos em **contact@dycers.com** e tente resolver o litígio de boa-fé durante pelo menos trinta (30) dias.
 
 **Resolução de litígios em linha da UE:** <https://ec.europa.eu/consumers/odr>
 

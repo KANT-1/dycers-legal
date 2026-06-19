@@ -4,8 +4,8 @@ title: Risk Açıklaması — Dycers
 
 # Risk Açıklaması — Dycers
 
-**Son güncelleme:** 28 Mayıs 2026
-**Yürürlük tarihi:** 28 Mayıs 2026
+**Son güncelleme:** 19 Haziran 2026
+**Yürürlük tarihi:** 19 Haziran 2026
 
 Lütfen bu Risk Açıklamasını Dycers'ı kullanmadan **önce** ve sağlanan bilgilere dayanarak herhangi bir bahis yapmadan önce dikkatlice okuyun. Bu belge, **Kullanım Koşullarının** ayrılmaz bir parçasıdır.
 
@@ -135,4 +135,4 @@ Uygulamada **„Kabul ediyorum"** düğmesine dokunarak şunu kabul etmiş ve on
 
 *Bu Risk Açıklamasının herhangi bir bölümüne katılmıyorsanız Uygulamayı kullanmayın.*
 
-**Yardım için: dycersofficial@gmail.com**
+**Yardım için: contact@dycers.com**
