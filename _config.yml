@@ -1,3 +1,11 @@
 title: Dycers — LF Digital Ventures
 description: Dycers — a sports-betting arbitrage information tool published by LF Digital Ventures (SAS). Company information and legal documents.
 theme: minima
+
+# Render every legal document with our own branded layout (see _layouts/doc.html)
+# instead of minima's default — which auto-listed every page in the header nav.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: doc
