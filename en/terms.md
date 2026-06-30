@@ -12,7 +12,7 @@ title: Terms of Use — Dycers
 
 The mobile application "**Dycers**" (the "**App**") is published and operated by **LF Digital Ventures**, a simplified joint-stock company (*société par actions simplifiée*, SAS) incorporated under French law with a share capital of €2, registered with the Trade and Companies Register (RCS) of Nanterre under number 106 243 355, SIRET 106 243 355 00018, intra-community VAT FR 08 106 243 355, whose registered office is located at 63 rue Nationale, 92100 Boulogne-Billancourt, France ("**we**", "**us**", "**our**", or the "**Publisher**").
 
-Contact: **contact@dycers.com.com**
+Contact: **contact@dycers.com**
 
 These Terms of Use (the "**Terms**") form a legally binding contract between you ("**you**", the "**User**") and the Publisher. By creating an account, downloading, installing or using the App, you accept these Terms in full. If you do not agree, you must not use the App.
 
